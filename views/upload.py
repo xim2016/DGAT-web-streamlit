@@ -146,7 +146,7 @@ with tab2:
     
     ---
     
-    ##### 1️⃣ **File Format**
+    ##### **1. File Format**
     
     - The input file must be in **`.h5ad` (AnnData)** format.
     
